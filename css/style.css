@@ -1,0 +1,25 @@
+body {
+  background-color: #474554; /* #D8D8D8 */
+  font-size: 16px;
+}
+
+.container {
+  background-color: #FFFFFF;
+}
+
+.jumbotron {
+  background-image: url("https://res.cloudinary.com/djones/image/upload/v1489113110/Alfred_Hitchcock1_mmkktf.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+	margin-bottom: 10px;
+}
+
+
+.footer {
+  border-radius: 5px;
+  background-color: #D8D8D8;
+}
